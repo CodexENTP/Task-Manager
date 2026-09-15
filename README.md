@@ -29,3 +29,7 @@ Use `Codex_Grant_Calendar_V1_Test_Import.xlsx` from the Calendar Tool project. G
 
 ## Note
 XLSX import uses SheetJS from a CDN. The app otherwise stores project data locally in the browser and does not require a backend.
+
+
+## Stock Screener Theme Patch
+This build applies the Codex Analytics Stock Screener dark navy/bronze visual system, including bronze-gradient primary buttons and a protected dark header for the Codex logo.
